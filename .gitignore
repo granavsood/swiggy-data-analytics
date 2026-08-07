@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/
+.ipynb_checkpoints/
+project_codes_and_outputs.txt
+update_nb*.py
+catboost_info/
+Swiggy_Churn_Analysis.py
+
